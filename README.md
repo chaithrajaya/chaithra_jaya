@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinis-311&label=Profile%20views&color=0e75b6&style=flat" alt="harinis-311" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
-- 👨‍💻 All of my projects are available at [https://github.com/HariniS-311](https://github.com/HariniS-311)
-- 📫 How to reach me **hariniselvam311@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/HariniS-311]((https://github.com/chaithrajaya))
+- 📫 How to reach me **chaithravtht@gmail.com**
 
 ### Connect with me:
 <p align="left">
